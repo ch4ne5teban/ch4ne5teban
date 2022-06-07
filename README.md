@@ -26,7 +26,7 @@
 <br>
 
 
-[![ch4ne5teban's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ch4ne5teban&custom_title=ch4ne5teban's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+![ch4ne5teban's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ch4ne5teban&custom_title=ch4ne5teban's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch4ne5teban" alt="ch4ne5teban" /></a> </p> -->
