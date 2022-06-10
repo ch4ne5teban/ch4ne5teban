@@ -1,4 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch4ne5teban&label=Profile%20views&color=1c1c1c&style=flat" alt="" /> </p>
 
+<h1 align="center">ch4ne5teban 🏳️‍🌈</h1>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -9,10 +11,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<h1 align="center">ch4ne5teban 🏳️‍🌈</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch4ne5teban&label=Profile%20views&color=1c1c1c&style=flat" alt="" /> </p>
 
 ### My Statistics
 
@@ -35,17 +33,17 @@
 
 - 👨‍💻 All of my projects (owned and borrowed) are available at [@ch4ne5teban](https://github.com/ch4ne5teban)
 
--  👯 I’m looking to collaborate on projects that use tech to create scalable solutions for pressing problems.
+- 👯‍♂️ I’m looking to collaborate on projects that use tech to create scalable solutions for pressing problems.
 
-- 💬 Ask me about: **law, learning natural languages, travel, learning, productivity :)**
+- 💬 **Ask me about:** law, learning natural languages, travel, learning, productivity :)
 
-- 📫 How to reach me: **ca1505pr@outlook.com**
+- 📫 **Reach me at:** ca1505pr@outlook.com
 
-- 🤘 Fun facts about me: **🗺 Quit my job to travel the world, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 Lost almost all of my money in a casino in Macau...**
+- 🤘 **Fun facts about me:** 🗺 I've been to 39 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 Lost almost all of my money in a casino in Macau...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ch4ne5teban's twitter" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ch4ne5teban's instagram" height="30" width="40" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://img.icons8.com/color/452/twitter-circled--v1.png" alt="ch4ne5teban's twitter" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>
 </p>
 
