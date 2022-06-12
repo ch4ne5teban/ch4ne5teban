@@ -31,7 +31,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch4ne5teban" alt="ch4ne5teban" /></a> </p> -->
 
-- ⚖️ 👨‍🏫 I’m an India-qualified lawyer and certified English, Spanish, and German coach.
+- ⚖️ 👨‍🏫 I’m an India-qualified lawyer and a certified English, Spanish, and German coach.
 
 - 👨‍💻 All of my projects (owned and borrowed) are available at [@ch4ne5teban](https://github.com/ch4ne5teban)
 
