@@ -41,7 +41,7 @@
 
 - 📫 **Reach me at:** ca1505pr@outlook.com
 
-- 🤘 **Fun facts about me:** 🗺 I've been to 39 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 Lost almost all of my money in a casino in Macau...
+- 🤘 **Fun facts about me:** 🗺 I've been to 39 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 Lost almost all of my money playing poker in Macau...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
