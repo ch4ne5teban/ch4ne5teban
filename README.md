@@ -37,7 +37,7 @@
 
 - 👯‍♂️ I’m looking to collaborate on projects that use tech to create scalable solutions for pressing problems.
 
-- 💬 **Ask me about:** law, learning natural languages, travel, learning, productivity :)
+- 💬 **Ask me about:** law 👨‍⚖️, natural languages 🗣️, travel 🗺️ ⛺, learning 📚, productivity ⏱️ :)
 
 - 📫 **Reach me at:** ca1505pr@outlook.com
 
