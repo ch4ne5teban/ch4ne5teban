@@ -50,3 +50,75 @@
 <a href="mailto:ca1505pr@outlook.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>
 </p>
 
+_____
+
+<div align="justify">
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        Welcome to my Github profile!
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=FB8500&center=true&vCenter=true&lines=Simplicity+is+the+soul+of+efficiency.">
+      <br>
+      <b>
+        ~ Austin Freeman ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="https://twitter.com/ch4ne5teban" target="blank"><img align="center" src="https://img.icons8.com/color/452/twitter-circled--v1.png" alt="ch4ne5teban's twitter" height="40" width="40" /></a>]
+    [<a href="https://linkedin.com/in/chanakyae5t" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>]
+    [<a href="mailto:ca1505pr@outlook.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=ch4ne5teban&color=orange&style=flat-square" alt="profile views" /> 
+  </a>
+  </samp>
+</p>
+
+<!-- Github Trophy -->
+<!--
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="x"></a></td>
+    </tr>
+  </table>
+</div> -->
+
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ch4ne5teban&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4ne5teban&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
+
+</details>
+</div>
