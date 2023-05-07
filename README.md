@@ -14,12 +14,10 @@
 
 - 💬 **Ask me about:** law 👨‍⚖️, natural languages 🗣️, travel 🗺️ ⛺, learning 📚, productivity ⏱️ :)
 
-- 🤘 **Fun facts about me:** 🗺 I've been to 39 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 Lost almost all of my money playing poker in Macau...
+- 🤘 **Fun facts about me:** 🗺 I've been to 42 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 Lost almost all of my money playing poker in Macau...
 
 ### 🛠 Tech Stack (in progress)
 
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
-![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -84,7 +82,7 @@ _____
 <p align="center">
   <samp>
     [<a href="https://twitter.com/ch4ne5teban" target="blank"><img align="center" src="https://img.icons8.com/color/452/twitter-circled--v1.png" alt="ch4ne5teban's twitter" height="40" width="40" /></a>]
-    [<a href="https://linkedin.com/in/chanakyae5t" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>]
+    [<a href="https://linkedin.com/in/chanakyaarora" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>]
     [<a href="mailto:ca1505pr@outlook.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>]
   </samp>
 </p>
