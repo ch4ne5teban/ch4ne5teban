@@ -4,11 +4,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch4ne5teban" alt="ch4ne5teban" /></a> </p> -->
 
-- ⚖️ 👨‍🏫 I’m an India-qualified lawyer; a certified English, Spanish, and German coach; 🔜 Self-taught programmer
+- ⚖️ 👨‍🏫 👨‍💻 I’m an India-qualified lawyer; a CELTA-certified English teacher (also teach Spanish and German); Frontend developer 🔜 Fullstack developer
 
-- 👯‍♂️ I’m looking to collaborate on projects that use tech to create scalable solutions for pressing problems.
+- 👯‍♂️ I’m looking to collaborate on projects that use tech to create scalable solutions for pressing problems in law and education.
 
-- 👨‍💻 All of my projects (owned and borrowed) are available at [@ch4ne5teban](https://github.com/ch4ne5teban)
+- 👨‍💻 All of my projects are available at [@ch4ne5teban](https://github.com/ch4ne5teban)
 
 - 💬 **Ask me about:** law 👨‍⚖️, natural languages 🗣️, travel 🗺️ ⛺, learning 📚, productivity ⏱️ :)
 
