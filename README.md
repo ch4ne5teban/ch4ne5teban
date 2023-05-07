@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch4ne5teban&label=Profile%20views&color=1c1c1c&style=flat" alt="" /> </p>
-
 <h1 align="center">ch4ne5teban 🏳️‍🌈</h1>
 
 ### Hello there 👋
@@ -62,7 +60,7 @@ _____
         Welcome to my Github profile!
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=16&color=0080FE&center=true&vCenter=true&lines=Pies,+¿para+qué+los+quiero+si+tengo+alas+para+volar?">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=14&color=0080FE&center=true&vCenter=true&lines=Pies,+¿para+qué+los+quiero+si+tengo+alas+para+volar?">
       <br>
       <b>
         ~ Frida Kahlo ~
@@ -78,7 +76,7 @@ _____
 
 <h2></h2><br>
 
-<!-- Contact Me -->
+<!-- Contact Me 
 <p align="center">
   <samp>
     [<a href="https://twitter.com/ch4ne5teban" target="blank"><img align="center" src="https://img.icons8.com/color/452/twitter-circled--v1.png" alt="ch4ne5teban's twitter" height="40" width="40" /></a>]
@@ -87,7 +85,7 @@ _____
   </samp>
 </p>
 
-<h2></h2><br>
+<h2></h2><br>-->
 
 <!-- Profile Views Badge -->
 <p align="center">
@@ -99,14 +97,14 @@ _____
 </p>
 
 <!-- Github Trophy -->
-<!--
+
 <div align="center">
   <table>
     <tr>
       <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="x"></a></td>
     </tr>
   </table>
-</div> -->
+</div>
 
 <!-- Github Stats -->
 <div align="center">
