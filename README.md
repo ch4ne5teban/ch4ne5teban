@@ -39,12 +39,12 @@
 
 ![ch4ne5teban's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ch4ne5teban&custom_title=ch4ne5teban's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ch4ne5teban" target="blank"><img align="center" src="https://img.icons8.com/color/452/twitter-circled--v1.png" alt="ch4ne5teban's twitter" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/chanakyae5t" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>
 <a href="mailto:@.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>
-</p>
+</p> -->
 
 _____
 
@@ -76,12 +76,12 @@ _____
 
 <h2></h2><br>
 
-<!-- Contact Me 
-<p align="center">
+<!-- Contact Me -->
+<!--<p align="center">
   <samp>
     [<a href="https://twitter.com/ch4ne5teban" target="blank"><img align="center" src="https://img.icons8.com/color/452/twitter-circled--v1.png" alt="ch4ne5teban's twitter" height="40" width="40" /></a>]
-    [<a href="https://linkedin.com/in/chanakyaarora" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>]
-    [<a href="mailto:ca1505pr@outlook.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>]
+    [<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>]
+    [<a href="mailto:@.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>]
   </samp>
 </p>
 
@@ -97,14 +97,14 @@ _____
 </p>
 
 <!-- Github Trophy -->
-
+<!-- 
 <div align="center">
   <table>
     <tr>
       <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="x"></a></td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- Github Stats -->
 <div align="center">
