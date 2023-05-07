@@ -62,10 +62,10 @@ _____
         Welcome to my Github profile!
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=FB8500&center=true&vCenter=true&lines=Simplicity+is+the+soul+of+efficiency.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=FB8500&center=true&vCenter=true&lines=Pies,+¿para+qué+los+quiero+si+tengo+alas+para+volar?">
       <br>
       <b>
-        ~ Austin Freeman ~
+        ~ Frida Kahlo ~
       </b>
     </samp>
   </p>
