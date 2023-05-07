@@ -28,15 +28,15 @@
 ### 🤸‍♂️ My Statistics
 
 <br/>
-<p align="left">
+<div align="left">
   <a href="https://github.com/ch4ne5teban/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ch4ne5teban&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ch4ne5teban&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ch4ne5teban&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch4ne5teban&theme=gruvbox&hide_border=true" />
   </a>
-</p>
+</div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4ne5teban&theme=react&layout=compact&card_width=1000)](https://github.com/ch4ne5teban/ch4ne5teban)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4ne5teban&theme=gruvbox&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,ch4ne5teban,boilerplateProjectReadme,github-slideshow&hide=shell&langs_count=8&layout=compact)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,20 +45,25 @@
 <a href="mailto:@.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>
 </p> -->
 
-_____
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="justify">
 
-<!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=14&color=0080FE&center=true&vCenter=true&lines=Pies,+¿para+qué+los+quiero+si+tengo+alas+para+volar?">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=14&color=FFBF00&center=true&vCenter=true&lines=Pies,+¿para+qué+los+quiero+si+tengo+alas+para+volar?">
       <br>
-      <b>
-        ~ Frida Kahlo ~
-      </b>
+      <em>
+        -Frida Kahlo
+      </em>
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
+</div>
+
+<div align="center">
+<p> <img src="https://komarev.com/ghpvc/?username=ch4ne5teban&label=Profile%20views&color=FFBF00&style=plastic"  alt="ch4ne5teban" /> </p>
+</div>
+
