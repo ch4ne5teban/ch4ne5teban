@@ -45,7 +45,7 @@
 <p align="left">
 <a href="https://twitter.com/ch4ne5teban" target="blank"><img align="center" src="https://img.icons8.com/color/452/twitter-circled--v1.png" alt="ch4ne5teban's twitter" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/chanakyae5t" target="blank"><img align="center" src="https://img.icons8.com/color/452/linkedin-circled--v1.png" alt="ch4ne5teban's linkedin" height="40" width="40" /></a>
-<a href="mailto:ca1505pr@outlook.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>
+<a href="mailto:@.com?subject=Hello from Github Visitor" target="blank"><img align="center" src="https://img.icons8.com/color/344/ms-outlook.png" alt="ch4ne5teban's email" height="40" width="40" /></a>
 </p>
 
 _____
