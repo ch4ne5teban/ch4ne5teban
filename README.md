@@ -31,7 +31,7 @@
 <div align="left">
   <a href="https://github.com/ch4ne5teban/">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ch4ne5teban&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ch4ne5teban&theme=gruvbox&hide_border=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ch4ne5teban&theme=gruvbox&hide_border=true" />
   </a>
 </div>
 <br>
