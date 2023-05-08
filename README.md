@@ -10,7 +10,7 @@
 
 - 💬 **Ask me about:** law 👨‍⚖️, natural languages 🗣️, travel 🗺️ ⛺, learning 📚, productivity ⏱️ :)
 
-- 🤘 **Fun facts about me:** 🗺 I've been to 42 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 Lost almost all of my money playing poker in Macau...
+- 🤘 **Fun facts about me:** 🗺 I've been to 42 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 On my first (business) trip to Macau, lost almost all of my money playing poker for the first time in my life...on my next trip, won it all back and more! Spent the gains on the highest bungee jump in the world 😎
 
 ### 🛠 Tech Stack (in progress)
 
