@@ -6,7 +6,7 @@
 
 - ⚖️ 👨‍🏫 👨‍💻 I’m an India-qualified lawyer; a CELTA-certified English teacher (also teach Spanish and German); Frontend developer 🔜 Fullstack developer
 
-- 👯‍♂️ My long-term goal is to learn ML and collaborate on projects that use tech to create scalable solutions for pressing problems in law and education.
+- 👯‍♂️ In the long run, I'd like to collaborate on projects that use tech to create scalable solutions for pressing problems in law and education.
 
 - 💬 **Ask me about:** law 👨‍⚖️, natural languages 🗣️, travel 🗺️ ⛺, learning 📚, productivity ⏱️ :)
 
