@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch4ne5teban" alt="ch4ne5teban" /></a> </p> -->
 
-- ⚖️ 👨‍🏫 👨‍💻 I’m a Frontend developer from India working towards becoming 🔜 a Fullstack developer. I also happen to have worked as an India-qualified lawyer, a CELTA-certified English coach, and a Spanish and German coach.
+- ⚖️ 👨‍🏫 👨‍💻 I’m a Frontend developer from India working towards becoming 🔜 a Fullstack developer. I also happen to have worked as an India-qualified lawyer, a Grade A CELTA-certified English coach, and a Spanish and German coach.
 
 - 👯‍♂️ Long-term goal: collaborate on projects that use tech to create scalable solutions for pressing problems in law and education.
 
