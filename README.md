@@ -4,13 +4,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch4ne5teban" alt="ch4ne5teban" /></a> </p> -->
 
-- ⚖️ 👨‍🏫 👨‍💻 I’m an India-qualified lawyer; a CELTA-certified English teacher (also teach Spanish and German); Frontend developer 🔜 Fullstack developer
+- ⚖️ 👨‍🏫 👨‍💻 I’m a Frontend developer from India working towards becoming 🔜 a Fullstack developer. I also happen to have worked as an India-qualified lawyer, a CELTA-certified English coach, and a Spanish and German coach.
 
 - 👯‍♂️ Long-term goal: collaborate on projects that use tech to create scalable solutions for pressing problems in law and education.
 
 - 💬 **Ask me about:** law 👨‍⚖️, natural languages 🗣️, travel 🗺️ ⛺, learning 📚, productivity ⏱️ :)
 
-- 🤘 **Fun facts about me:** 🗺 I've been to 42 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 On my first (business) trip to Macau, lost almost all of my money playing poker for the first time in my life...on my next trip, won it all back and more! Spent the gains on the highest bungee jump in the world 😎
+- 🤘 **Fun facts about me:** 🗺 I've been to 42 countries, 🚵‍♂️ Traveled ~5000 Km by bicycle from Texas to Guatemala, 👍 Hitchhiked through most of Europe, 💪 Volunteered on an organic farm in Spain, 👨‍🍳 Worked in a "free lunch" café in Glasgow, Scotland, 👨‍🎨 Sold henna tattoos in Latin America, 🤡 On my first (business) trip to Macau, lost almost all of my money playing poker for the first time in my life...on my next trip there, won it all back and more! Spent the gains on the highest bungee jump in the world 😎
 
 ### 🛠 Tech Stack (in progress)
 
